@@ -1,6 +1,6 @@
 # Hi 👋, I'm Subodh Suralkar
 
-### Greatest Devloper
+### Greatest Creative Developer
 
 - 🔭 I'm currently working on **A website for Indian students that allows tracking syllabus completion, monitoring study time, and integrating Pomodoro sessions with some advanced scientific study methods.**
 
